@@ -1,6 +1,6 @@
 # online-market-basket-analysis
 
-Online market basket analysis on an online retail dataset using FP-Tree and Apriori algorithms for association rule mining
+Online market basket analysis on an online retail dataset using FP-Growth algorithm for association rule mining
 
 COMP6579001 - Big Data Processing
 
